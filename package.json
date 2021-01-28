@@ -1,0 +1,22 @@
+{
+  "name": "start_with_tdm",
+  "version": "1.0.0",
+  "description": "start whit TDM",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mammadsafar/start_with_TDM.git"
+  },
+  "keywords": [
+    "statr_whit_TDM"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mammadsafar/start_with_TDM/issues"
+  },
+  "homepage": "https://github.com/Mammadsafar/start_with_TDM#readme"
+}
